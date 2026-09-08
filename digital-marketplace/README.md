@@ -1,6 +1,6 @@
 # Digital Marketplace — Starter Scaffold
 
-A single-seller digital goods store (ebooks, courses, design templates, business
+A single-sellers digital goods store (ebooks, courses, design templates, business
 proposals, web templates, journal/research, project files, idea briefs), built
 so it can open up to multiple sellers later without a rewrite.
 
